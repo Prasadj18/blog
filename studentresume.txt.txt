@@ -1,0 +1,20 @@
+                                                                                STUDENT RESUME
+
+
+                         PERSONAL DETAILS :
+                         1. name : Prasad
+                         2. DOB   : 13-11-2005 
+                         3. phone no : 7760375325
+                         4. Address : Gurugunta, Lingasugur, Raichur 584139
+
+                         EDUCATIONAL DETAILS :
+                         1. studied in gurugunta govt high school
+                         2. currently studying in GOVT ploytechnic University
+
+                         HOBBIES :
+                         1. Reading newspaper, Coding, Drawing etc
+
+                         SKILLS :
+                         1. Front end developer, html, Python, Java 
+                         2. Best communication skills
+                         3. good leadership quality
